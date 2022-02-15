@@ -1,2 +1,2 @@
-from .HelloHandler import *
-from .UploadHandler import *
+from .HelloHandler import HelloHandler
+from .UploadHandler import UploadHandler

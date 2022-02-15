@@ -7,6 +7,7 @@ from handlers import *
 def make_app():
     return Application([
         (r"/", HelloHandler),
+        (r"/upload", UploadHandler)
     ])
 
 

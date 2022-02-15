@@ -1,0 +1,5 @@
+**
+
+# Allow files and directories
+!/requirements.txt
+!/src/**
