@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": ["./src"],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "python.defaultInterpreterPath": "${workspaceFolder}"
+}
